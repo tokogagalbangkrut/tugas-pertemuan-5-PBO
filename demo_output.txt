@@ -1,0 +1,15 @@
+SISTEM PEMINJAMAN ALAT LABORATORIUM
+===================================
+
+=== DAFTAR ALAT ===
+- Laptop [LT-001] - Laptop Lenovo; cocok untuk praktikum pemrograman.
+- Mikroskop [MK-001] - Mikroskop Binokuler; digunakan untuk pengamatan sampel.
+- Proyektor [PJ-001] - Proyektor Epson; digunakan untuk presentasi.
+
+=== PROSES PEMINJAMAN ===
+Petugas: Andi
+Pemeriksaan kondisi laptop dilakukan sebelum peminjaman.
+Laptop Lenovo: peminjaman berhasil
+Mikroskop Binokuler: peminjaman berhasil
+Proyektor Epson: peminjaman berhasil
+Jumlah alat dalam daftar: 3
